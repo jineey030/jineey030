@@ -20,7 +20,7 @@
 ### 🏡 come to my Velog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jineey)](https://velog.io/@jineey)
 
-### 🌱
+### 🌱 and more
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jineey0_0)](https://solved.ac/jineey0_0/)
