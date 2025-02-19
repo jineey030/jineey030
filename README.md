@@ -18,7 +18,7 @@
 ![Github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
 
 ### 🏡 come to my Velog
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jineey0_0)](https://solved.ac/jineey0_0)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jineey)](https://velog.io/@jineey)
 
 ### 🌱
 <br>
