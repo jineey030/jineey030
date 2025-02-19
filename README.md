@@ -9,6 +9,10 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-007396?style=flat&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat&logo=Oracle&logoColor=white)
 
+<br> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jineey030&layout=compact)](https://github.com/jineey030/github-readme-stats)
+
 ### 🛠️ Tools
 ![VSCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white)
