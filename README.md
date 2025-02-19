@@ -24,6 +24,7 @@
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jineey0_0)](https://solved.ac/jineey0_0/)
+<br>
 ![jineey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jineey030&show_icons=true&theme=shadow_green)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B3D96C&height=150&section=footer" />
