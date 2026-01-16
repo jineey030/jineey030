@@ -32,6 +32,7 @@
 
 ### 🌱 and more
 <br>
+
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=jineey0_0)](https://solved.ac/jineey0_0/)
 
 <!-- footer -->
