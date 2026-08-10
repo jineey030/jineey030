@@ -30,6 +30,9 @@
 ### 🏡 Come to my Velog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jineey)](https://velog.io/@jineey)
 
+### My another Github🐈‍⬛ 
+[![GitHub](https://img.shields.io/badge/GitHub-yejinoh-dev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yejinoh-dev)
+
 ### 🌱 and more
 <br>
 
