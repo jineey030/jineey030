@@ -32,7 +32,6 @@
 
 ### My another Github🐈‍⬛ 
 [![GitHub](https://img.shields.io/badge/GitHub-yejinoh--dev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yejinoh-dev)
-[![yejinoh-dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yejinoh-dev&show_icons=true&theme=radical)](https://github.com/yejinoh-dev)
 
 ### 🌱 and more
 <br>
