@@ -10,10 +10,5 @@
 ### My another Github🐈‍⬛ 
 [![GitHub](https://img.shields.io/badge/GitHub-yejinoh--dev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yejinoh-dev)
 
-### 🌱 and more
-<br>
-
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=jineey0_0)](https://solved.ac/jineey0_0/)
-
 <!-- footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B3D96C&height=150&section=footer" />
